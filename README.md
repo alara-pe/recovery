@@ -5,8 +5,8 @@ El objetivo de este proyecto es crear un programa que, dado un rango de fechas, 
 
 
 Dando un rango de tiempo, se puede extraer información de interés para el forense:
-• Fechas de cambio de ramas de registro (CurrentVersionRun)
-• Archivos recientes
+• Fechas de cambio de ramas de registro (CurrentVersionRun)<
+• Archivos recientes/n
 • Programas instalados
 • Programas abiertos
 • Historial de navegación
